@@ -5,38 +5,38 @@
 
 ---
 
-레포 구조:
-AIFFEL_quest_cr
-├── MainQuest
-│   ├── Quest01
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Quest02
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Quest03
-│   │   ├── .ipynb
-│   │   └── README.md
-│   └── Quest04
-│       ├── .ipynb
-│       └── README.md
-├── Exploration
-│   ├── Ex01
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Ex02
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Ex03
-│   │   ├── .ipynb
-│   │   └── README.md
-├── GoingDeeper
-│   ├── GD01
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── GD02
-│   │   ├── .ipynb
-│   │   └── README.md
-└── └── GD03
-        ├── .ipynb
-        └── README.md
+레포 구조:  
+AIFFEL_quest_cr  
+├── MainQuest  
+│   ├── Quest01  
+│   │   ├── .ipynb  
+│   │   └── README.md  
+│   ├── Quest02  
+│   │   ├── .ipynb  
+│   │   └── README.md  
+│   ├── Quest03  
+│   │   ├── .ipynb  
+│   │   └── README.md  
+│   └── Quest04  
+│       ├── .ipynb  
+│       └── README.md  
+├── Exploration  
+│   ├── Ex01  
+│   │   ├── .ipynb  
+│   │   └── README.md  
+│   ├── Ex02  
+│   │   ├── .ipynb  
+│   │   └── README.md  
+│   ├── Ex03  
+│   │   ├── .ipynb  
+│   │   └── README.md  
+├── GoingDeeper  
+│   ├── GD01  
+│   │   ├── .ipynb  
+│   │   └── README.md  
+│   ├── GD02  
+│   │   ├── .ipynb  
+│   │   └── README.md  
+└── └── GD03  
+        ├── .ipynb  
+        └── README.md  
