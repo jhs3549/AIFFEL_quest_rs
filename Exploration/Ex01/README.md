@@ -7,6 +7,7 @@
 - [v]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
+        - <img width="892" height="643" alt="image" src="https://github.com/user-attachments/assets/d631a5e8-a75d-4a68-b055-981235b7e705" />
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -24,7 +25,9 @@
     - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-     
+        - <img width="818" height="732" alt="image" src="https://github.com/user-attachments/assets/dc24d76a-2e94-4501-9c75-00adf9f9c471" />
+        - <img width="916" height="561" alt="image" src="https://github.com/user-attachments/assets/9784404a-b8db-492e-89ac-c4b48cdf60ab" />
+
     - 새로운 시도와 다양한 테스트 케이스가 돋보입니다.
         
 - [v]  **4. 회고를 잘 작성했나요?**
@@ -32,6 +35,7 @@
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+        - <img width="750" height="210" alt="image" src="https://github.com/user-attachments/assets/a52aaf97-9cb1-495f-8751-cc22619948bb" />
 
     - 마지막 회고를 깔끔하게 잘 정리하였습니다.
         
@@ -39,6 +43,8 @@
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+        - <img width="977" height="747" alt="image" src="https://github.com/user-attachments/assets/067eff6d-ed40-48cd-bfa7-f025b430eb4a" />
+
     - 스티커를 여려번 사용할 수 있도록 함수화 하고, 함수화된 소스를
     - 여러번 반복하며 사람을 찾아 스티커를 붙일때 시간 계산까지 한 점이 뛰어납니다.
 
